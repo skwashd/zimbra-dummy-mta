@@ -1,0 +1,17 @@
+Source: zimbra-dummy-mta
+Section: mail
+Priority: extra
+Maintainer: Dave Hall <dave.hall@skwashd.com>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+Homepage: http://zimbra.com
+
+Package: zimbra-dummy-mta
+Architecture: all
+Depends: zimbra-mta
+Provides: mail-transport-agent
+Description: Dummy package to provide the mail-transport-agent
+ The zimbra-mta package is broken because it doesn't provide
+ "mail-transport-agent", so most mail related packages can't
+ be installed on a zimbra server.  This package solves that 
+ problem.

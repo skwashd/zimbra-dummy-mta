@@ -1,0 +1,27 @@
+This work was packaged for Debian by:
+
+    Dave Hall <dave.hall@skwashd.com> on Sat, 02 Apr 2011 14:39:42 +1100
+
+Upstream Author(s):
+
+    Dave Hall <dave.hall@skwashd.com>
+
+Copyright:
+
+    Copyright (C) 2011 Dave Hall <dave.hall@skwashd.com>
+
+License:
+
+    Do What The Fuck You Want To Public License v2 http://sam.zoy.org/wtfpl/
+
+The Debian packaging is:
+
+    Copyright (C) 2011 Dave Hall <dave.hall@skwashd.com>
+
+and is licensed under the WTFPL version 2, 
+
+This program is free software. It comes without any warranty, to
+the extent permitted by applicable law. You can redistribute it
+and/or modify it under the terms of the Do What The Fuck You Want
+To Public License, Version 2, as published by Sam Hocevar. See
+http://sam.zoy.org/wtfpl/COPYING for more details.
